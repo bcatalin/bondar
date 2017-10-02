@@ -6,3 +6,5 @@ But how about running an MQTT broker on an USD 3 ESP8266 chip ? It is possible ?
 No need to compile code, to solve errors , just click and run. More than that your MQTT broker will communicate with your http://iotcentral.eu instance so you still get your messages on your phone if your mobile app is connecting to the websockets to your http://iotcentral.eu cloud instance. 
 
 But what I am at home and my internet connection is down ? Can I communicate with my devices or I am isolated?  Don't worry, your mobile app will still be able to connect to the ESP8266 MQTT Broker over the websocket so you can control your devices.
+
+For more projects don't forget to go to http://myesp8266.blogspot.com 
