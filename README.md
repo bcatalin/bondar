@@ -1,4 +1,4 @@
-Running an MQTT broker to serve all devices for a house ( 20pcs) is required at least a Raspberry Pi or equivalent.
+Running an MQTT broker to serve all devices for a house ( 20pcs) it requires at least a Raspberry Pi or equivalent SOC.
 SD card fails from time to time, and requires some Linux skills to make it work and the final price is over USD 70. (Good power supply, case, HDMI cable, keyboard )
 
 But how about running an MQTT broker on an USD 3 ESP8266 chip ? It is possible ? Yes, it is ! Go to http://iotcentral.eu and with few clicks you will be able to flash your ESP8266 ( 4Mb) with the binary. 
